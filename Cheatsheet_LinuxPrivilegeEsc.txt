@@ -194,7 +194,7 @@ cat /var/lib/mysql/mysql/user.MYD
 cat /root/anaconda-ks.cfg
 
 
-What has the user being doing? Is there any password in plain text? What have they been edting?
+What has the user been doing? Are there any passwords in plain text? What have they been edting?
 cat ~/.bash_history
 cat ~/.nano_history
 cat ~/.atftp_history
